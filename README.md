@@ -1,46 +1,19 @@
-# Getting Started with Create React App
+# Scroll Effect with Framer-motion
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto tem intuito de apenas criar componentes e hooks que realiza calculos com base nas dimensões da tela do usuário e aplica efeitos de opacidade entre sessões.
 
-## Available Scripts
+## É permitido utilizar?
 
-In the project directory, you can run:
+Sim! este projeto pode ser baixado e clonado ou copiado para aplicar em qualquer website que desejar.
 
-### `yarn start`
+## Quem sou eu ? / Contato
+Meu nome é Gabriel Hijazi, sou Co-fundador & desenvolvedor fullstack da empresa @Hitechline, onde sou responsável juntamente com uma equipe qualificada em criar softwares/sistemas 100% customizavel para cada cliente ou empresa que precise de automações no seu setor tecnológico, também criamos websites informativos, institucionais e portfolios para pessoas que querem divulgar seu negócio ou seu trabalho, além de oferecermos serviços de hospedagem VPS, hospedagem Cloud, serviços de e-mails profissionais entre outros.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Além de prestar serviços para outras empresas ou pessoas, nós também buscamos em criar soluções para outros desenvolvedores como uma de nossas bibliotecas Reactools cujo o link está abaixo.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Espero que tenha gostado do que viu, em breve estarei postando mais conteudos a respeito de testes com efeitos para frontend e soluções para backend.
+ 
+[Instagram](https://www.instagram.com/hijazi.dev/)
+[Hitechline](https://reactools.hitechline.com.br/)
+[Discord](https://discord.gg/XGWJyEmZ7E)
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
