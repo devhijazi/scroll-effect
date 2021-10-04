@@ -23,7 +23,7 @@ export const Home = (): JSX.Element => (
             overlayNode={
               <DefaultOverlayContent
                 label={wrapperName}
-                description="Um dev maroto"
+                description="Fullstack Developer"
               />
             }
           />
